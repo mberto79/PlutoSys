@@ -19,5 +19,5 @@ create_sysimage([
     :Markdown
     ];
     precompile_statements_file="pluto_precompile.jl",
-    # precompile_execution_file="pluto_warmup.jl",
+    precompile_execution_file="pluto_warmup.jl",
     sysimage_path="PlutoSysImage.so")

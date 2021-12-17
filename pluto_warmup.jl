@@ -13,7 +13,7 @@ using Markdown
 #  Pluto.run(notebook="src\\dragReduction_Tutorial_03.jl")
 #  Pluto.run(notebook="src\\participationApp.jl")
 
+include("src/dragReduction_Tutorial_03.jl")
 include("src/01_introduction.jl")
 include("src/03_induced_drag_estimation.jl")
-include("src/dragReduction_Tutorial_03.jl")
 include("src/participationApp.jl")
